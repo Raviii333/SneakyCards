@@ -218,5 +218,3 @@ public class Card2
             return "sabotagecard";
     }
 }
-
-
