@@ -95,5 +95,3 @@ public class Deck2
         count2 = 0;
     }
 }
-
-
